@@ -1,0 +1,39 @@
+body {
+  background: #f2f2f2;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #212121;
+}
+
+h1 .top {
+  font-size: 24px;
+  color: #FFF;
+  font-weight: 500;
+}
+
+p {
+  font-family: verdana;
+  font_size: 20px;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
