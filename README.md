@@ -22,8 +22,6 @@ For my previous code on web scrapping and text analysis, see [here](https://gith
 
 The core ML model is content-based recommender system. It compares the `cosine similarity` of restaurants based on their customer reviews.
 
-### Snapshots
+### Demo
 
-![](static/images/mainpage.png)
-
-![](static/images/recompage.png)
+![](static/images/flexi-demo.gif)
